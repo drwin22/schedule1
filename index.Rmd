@@ -194,19 +194,28 @@ library(gt)
 head(mtcars)
 ```
 
+\newpage
 
-```{r}
-df=mtcars
-df %>%gt()
-df %>%gt() %>%
-tab_header(title = "mtcars dataset") %>%
-tab_style(
-style = list(cell_fill(color = "#b2f7ef"),
-cell_text(weight = "bold")),
-locations = cells_body(columns = mpg))%>%
-tab_style(
-style = list(cell_fill(color = "#ffefb5"),
-cell_text(weight = "bold")), 
-locations = cells_body(columns = hp))
+<!-- The sections of code below that include "child=..." are drawing from seperate .md documents. These allow for updating text in a single spot for use in multiple syllabus documents. -->
+
+```{r COVID_policy, child='general_components/COVID_policy.md'}
+
 ```
+```{r disability_services, child='general_components/disability_services.md'}
+
+```
+```{r disaster_plan, child='general_components/disaster_plan.md'}
+
+```
+
+```{r food_insecurity, child='general_components/food_insecurity.md'}
+
+```
+```{r mental_health, child='general_components/mental_health.md'}
+
+```
+```{r witing_center, child='general_components/writing_center.md'}
+
+```
+
 

@@ -1,6 +1,15 @@
-## Academic honesty
-The University of South Alabamaâ€™s policy regarding Student Academic Conduct Policy is found in The Lowdown http://www.southalabama.edu/lowdown/academicconductpolicy.shtml: The University of South Alabama is a community of scholars in which the ideals of freedom of inquiry, freedom of thought, freedom of expression, and freedom of the individual are sustained. The University is committed to supporting the exercise of any right guaranteed to individuals by the Constitution and the Code of Alabama and to educating students relative to their responsibilities.
+## Chapter-2
 
-Violation of academic conduct policy may result in receiving 0 credit for the affected exam/assignment.  
-
-Do not pass others work off as your own. This constitutes plagiarism and seriously undermines your education. Students may learn about the meaning of plagiarism and how to avoid it at the following link: http://www.southalabama.edu/univlib/instruction/plagiarismforstudents.html
+Moi je t'offrirai 
+Des perles du pluie 
+Venues de pays 
+Où il ne pleut pas 
+Je creuserai la terre 
+Jusqu'après ma mort 
+Pour couvrir ton corps 
+D'or et de lumière 
+Je ferai un domaine 
+Où l'amour sera roi 
+Où l'amour sera loi 
+Où tu seras reine 
+Ne me quitte pas  http://www.southalabama.edu/univlib/instruction/plagiarismforstudents.html

@@ -1,2 +1,16 @@
-## Academic disruption policy
-The University of South Alabamaâ€™s policy regarding Academic Disruption is found in The Lowdown, the student handbook. http://www.southalabama.edu/lowdown/academicdisruption.shtml. Disruptive academic behavior is defined as individual or group conduct that interrupts or interferes with any educational activity or environment, infringes upon the rights and privileges of others, results in or threatens the destruction of property and/or is otherwise prejudicial to the maintenance of order in an academic environment. At all times students will be cordial, courteous and respectful of faculty members and fellow students. Cell phones, videotaping, and other electronic devices are not allowed; however, you may use a laptop for note taking. If your laptop is used for other purposes, the instructor holds the right to revoke laptop use.
+## Chapter-1
+
+https://www.youtube.com/watch?v=q_bq5mStroM
+Ne me quitte pas 
+Il faut oublier 
+Tout peut s'oublier 
+Qui s'enfuit déjà 
+Oublier le temps 
+Des malentendus 
+Et le temps perdu 
+A savoir comment 
+Oublier ces heures 
+Qui tuaient parfois 
+A coups de pourquoi 
+Le coeur du bonheur 
+Ne me quitte pas 

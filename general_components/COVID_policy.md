@@ -1,5 +1,15 @@
 ## COVID policy
 
-While on campus, students are required to follow all USA COVID-19 policies and practices. These policies can be found at [https://www.southalabama.edu/coronavirus/](https://www.southalabama.edu/coronavirus/). Be advised that policies may change during the semester, and students should check the University's Coronavirus Update page regularly. 
-
-There is also a student incentive program for getting vaccinated. Details about insentives can be found at [https://www.southalabama.edu/coronavirus/vaccineincentive/](https://www.southalabama.edu/coronavirus/vaccineincentive/)
+Je t'inventerai 
+Des mots insensés 
+Que tu comprendras 
+Je te parlerai 
+De ces amants là 
+Qui ont vu deux fois 
+Leurs coeurs s'embraser 
+Je te raconterai 
+L'histoire de ce roi 
+Mort de n'avoir pas 
+Pu te rencontrer
+Ne me quitte pas 
+ [https://www.southalabama.edu/coronavirus/vaccineincentive/](https://www.southalabama.edu/coronavirus/vaccineincentive/)
