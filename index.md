@@ -1,16 +1,25 @@
-Math 0910: schedule
+Math 0910: Syllabus
 ================
 Prof. Francois Nguyen
 Spring 2023
 
 # Overview:
 
-This course is Introduction to Algebra Online course. The topics include
-real numbers, methods of solving equations and inequalities and their
-applications, exponents and polynomials, factoring polynomials, solving
-quadratic equations and their applications, rational expressions,
-rational exponents and radicals, and graphing functions (linear and
-quadratic).
+# Course Description
+This course is intended for students who have had one year of high school algebra and need a refresher before taking courses such as College Algebra and/or Pre-Calculus. The topics include a review of solving equations and inequalities and their applications, exponents, and polynomials, factoring polynomials, solving quadratic equations and their applications, rational expressions, rational exponents and radicals.
+
+# Course Learning Outcomes
+At the completion of this course, students will be able to:
+1.	Identify and understand the basic concepts of algebraic expressions.
+2.	Perform operations on polynomial and rational expressions.
+3.	Apply the definition of absolute value to solve inequalities and equations involving absolute values.
+4.	Find solutions to and graph systems of linear equations and inequalities.
+5.	Solve equations involving first and second-degree polynomials and rational expressions.
+6.	Manipulate radical expressions using laws of exponents.
+7.	Understand basic properties of functions.
+8.	Apply properties of rational and radical expressions, polynomials, and absolute value in the context of real-life.
+
+
 
 ``` r
 # Define the cars vector with 5 values
