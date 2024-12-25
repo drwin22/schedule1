@@ -338,3 +338,100 @@ website](https://www.southalabama.edu/departments/academicsuccess/cae/how.it.wor
 During graduate school, I found workshops and writing groups at the
 Writing Center on campus to be helpful in building my motivation and
 teaching me new strategies for writing efficiently.
+# annoucements
+Course Overview: Introductory Algebra (Math-0910-91)
+This course provides a foundation in algebraic concepts and skills, essential for success in advanced mathematics and real-world problem-solving. Topics include:
+
+Fundamentals of Algebra: Understanding variables, expressions, and equations.
+Operations with Real Numbers: Adding, subtracting, multiplying, and dividing real numbers.
+Linear Equations and Inequalities: Solving and graphing in one and two variables.
+Polynomials: Operations and basic factoring techniques.
+Rational Expressions and Equations: Simplifying and solving.
+Radicals and Exponents: Simplification and application.
+Throughout the course, emphasis will be placed on real-world applications to demonstrate the relevance of algebra in everyday life and professional fields.
+
+By the end of the course, students will:
+
+Develop a solid understanding of core algebraic principles.
+Build problem-solving skills applicable in various contexts.
+Prepare for higher-level mathematics courses or standardized tests.
+Success in this course requires regular practice, active participation, and timely completion of assignments. Let's work together to make this a successful and engaging learning experience!
+
+# welcome:
+Welcome to Math-0910-91, Introductory Algebra Online! I am so excited to work with you this term and assist you in achieving your educational goals. I truly look forward to our class and getting to know each of you.
+
+If you have a preferred name that is not on the official roster, please send it to me. You are welcome to call me Dr. Francois. One of the many reasons I love teaching this particular course is the real-world applications we can share.
+
+Please begin by thoroughly reading the syllabus and reviewing all the course web pages to familiarize yourself with how we’ll operate. The syllabus outlines important information about assignments, due dates, grading, and course expectations. Use this information to plan your term and stay on track.
+
+If you encounter any challenges, please contact me as soon as possible so we can work together to meet your needs. Email is my preferred way of communication, and it helps if you include your name and class name in your message so I can assist you more efficiently.
+
+I hope you will find your experience here at the college both challenging and rewarding. Let’s have a great term!
+
+# Reminder:
+Subject: Final Week Reminder: Finish Strong!
+
+Hi Stella,
+
+This is a quick reminder that we’re in the final week of the fall semester. Please make sure to complete all outstanding assignments, including the Final Exam, by Thursday at 11:00 PM. Submitting your work on time will allow me to process and submit your grade promptly to the office.
+
+As we approach the finish line, remember: "Success is the sum of small efforts, repeated day in and day out." Give it your best effort, and you'll be proud of the results!
+
+If you have any questions or need assistance, don’t hesitate to reach out. Please reply to confirm that you’ve received this email.
+
+Wishing you the very best,
+[Your Name]
+
+# First day:
+Dear Students,
+
+Welcome to [Course Name]!
+
+I’m excited to start this journey with you and look forward to a productive and engaging semester. Here’s some important information to get us started:
+
+Class Schedule: We will meet every Friday from 9:00 AM to 11:55 AM in Room 4140.
+Course Materials: We’ll be using MyMathLab through RedShelf, which has already been billed with your tuition. You’ll find everything you need directly in the course platform—no additional purchases are required!
+On this first day, take some time to:
+
+Familiarize yourself with MyMathLab and how to access it through RedShelf.
+Review the syllabus to understand the course objectives, assignments, and expectations.
+Come prepared for in-person interaction and collaboration in our classroom setting.
+This course is designed to provide a supportive and interactive environment for learning. If you have any questions about the tools we’re using, the class format, or anything else, don’t hesitate to reach out.
+
+Let’s make this a successful and enjoyable semester!
+
+Best regards,
+[Your Name]
+[Your Title or Role]
+
+# Check list D2L
+D2L Checklist
+Getting Started
+ Log in to D2L with your credentials.
+ Set up your profile and preferences (e.g., notifications, time zone).
+ Familiarize yourself with the D2L interface (dashboard, course tiles, navigation menus).
+Course Access
+ Confirm enrollment in all your courses.
+ Open the course homepage for each class.
+ Review the syllabus and introductory materials.
+ Locate key resources like assignments, discussions, and quizzes.
+Assignments & Quizzes
+ Check the due dates for all assignments.
+ Submit assignments on time through the appropriate submission portal.
+ Complete quizzes and exams before their deadlines.
+Communication
+ Check announcements regularly for updates.
+ Use the discussion boards to participate in course discussions.
+ Contact your instructor through the D2L email or messaging system if needed.
+Grades & Feedback
+ Monitor your grades in the Grades section.
+ Review feedback provided for assignments and quizzes.
+ Address any grade discrepancies with your instructor promptly.
+Technical Support
+ Bookmark the D2L help center or support page.
+ Test your browser compatibility with D2L.
+ Update your software (e.g., browser, PDF reader) to avoid technical issues.
+General Tips
+ Log in regularly to stay up to date with course content.
+ Sync deadlines with a calendar app for better time management.
+ Back up important files and submissions.
